@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Jael-dev/jael-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to learn again and again. In addition to learning, I like to share my knowledge. Attracted by mobile development in particular, I learned the dart language and the flutter framework. @Kolofap is the mobile project I'm most proud of right now.
 
-Here are some ideas to get you started:
+In addition to mobile, I am currently learning Javascript and the vue js framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am young and passionate, I learn quickly and I love what I do.
+
+- 💬 Ask me about git and github
+
+- 📫 How to reach me: jaelngaleu@gmail.com
+
+- 😄 Pronouns: Jaja
+
