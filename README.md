@@ -14,4 +14,5 @@ I am young and passionate, I learn quickly and I love what I do.
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${jael-dev}.${your.repo.id}) -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/apijael-devGapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jael-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
