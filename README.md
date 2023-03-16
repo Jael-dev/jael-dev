@@ -12,3 +12,4 @@ I am young and passionate, I learn quickly and I love what I do.
 
 - 😄 Pronouns: Jaja
 
+${your.jael-dev}.${your.jael-dev.id} 
