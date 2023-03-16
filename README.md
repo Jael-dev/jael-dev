@@ -12,4 +12,4 @@ I am young and passionate, I learn quickly and I love what I do.
 
 - 😄 Pronouns: Jaja
 
-${your.jael-dev}.${your.jael-dev.id} 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
