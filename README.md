@@ -13,8 +13,9 @@ I am young and passionate, I learn quickly and I love what I do.
 - 😄 Pronouns: Jaja
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${jael-dev}.${your.repo.id}) -->
-<!-- START_SECTION:waka
-END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jael-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" align="left"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jael-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&layout=compact&theme=transparent" align="right"/>
