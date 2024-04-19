@@ -27,7 +27,7 @@ I hold a Bachelor's degree in Software Engineering and I'm currently pursuing a 
 
 In addition to my academic background, I possess strong organizational skills, a meticulous approach to tasks, and thrive in collaborative environments. My professional experience encompasses roles as a developer, tutor, and advanced training in software engineering, cloud computing, and systems administration.
 
-While my profile reflects my past endeavors in mobile development, particularly with Dart and Flutter showcased in projects like @Kolofap, my current focus lies in expanding my expertise in JavaScript and the Vue.js framework. Furthermore, my academic pursuits have steered me towards a DevOps-centric approach, aligning with my ongoing studies in IT project management.
+While my profile reflects my past endeavors in mobile development, particularly with Dart and Flutter showcased in projects like @Kolofap, my current focus lies in expanding my expertise in Devops. Furthermore, my academic pursuits have steered me towards a DevOps-centric approach, aligning with my ongoing studies in IT project management.
 
 Feel free to reach out to discuss anything related to git, GitHub, or any other topics of mutual interest.
 
