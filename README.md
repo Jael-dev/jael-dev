@@ -1,5 +1,4 @@
-### French:
----
+
 👋 Bienvenue sur mon profil GitHub !
 
 Titulaire d'une licence en Génie Logiciel, je suis actuellement en cours de Master of Science en Management de projets informatiques. Mon parcours académique m'a permis d'acquérir une compréhension approfondie du développement logiciel, des réseaux, de la sécurité, des pratiques DevOps et des méthodologies de gestion de projets.
@@ -18,8 +17,6 @@ N'hésitez pas à me contacter pour discuter de tout ce qui concerne git, GitHub
 📝 [Dev.to](https://dev.to/jaeldev)
 
 
-
-### English:
 ---
 👋 Welcome to my GitHub profile!
 
